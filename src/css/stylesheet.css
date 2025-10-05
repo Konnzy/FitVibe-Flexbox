@@ -90,6 +90,7 @@ main {
 	gap: 20px;
 	align-items: stretch;
 	flex: 1 1 auto;
+	width: 100%;
 }
 
 .lc {
@@ -246,4 +247,5 @@ footer p {
 footer .logo {
 	height: 40px;
 	width: auto;
+
 }
